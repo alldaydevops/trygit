@@ -1,4 +1,4 @@
 checking stash working
 deleted
 deleted 2
-deleted 3
+added 1
