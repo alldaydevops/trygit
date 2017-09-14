@@ -1,1 +1,3 @@
 checking stash working
+deleted
+deleted 2
