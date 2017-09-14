@@ -1,0 +1,6 @@
+--
+ host: waseem's cloud
+ sudo: yes
+ 
+ name: do config change
+ shell: sed -i "welcome to devops school"
